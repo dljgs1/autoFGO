@@ -1,0 +1,8 @@
+chouj 310 340
+up 140 320
+mid 290 320
+down 440 320
+full 340 480
+reset 140 850
+reset_ok 420 620
+reset_over 420 480
